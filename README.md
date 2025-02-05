@@ -1,1 +1,3 @@
 # README
+
+Se agregan notas
