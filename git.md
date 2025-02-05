@@ -27,5 +27,6 @@ git checkout -- . (Reconstruye el proyecto a la ultima version guardada)
 git branch (Permite ver las ramas)
 
 git log
-```
 
+git commit --amend -m "Nuevo texto del commit" (Permite modificar el texto del ultimo commit)
+```
