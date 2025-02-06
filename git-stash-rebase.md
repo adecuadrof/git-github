@@ -6,9 +6,13 @@ El Git Stash es como un contenedor donde podemos poner todos los cambios tempora
 
 ```
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 git stash
 
 git stash list
+=======
+
+>>>>>>> Stashed changes
 =======
 
 >>>>>>> Stashed changes
