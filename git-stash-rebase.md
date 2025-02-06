@@ -5,7 +5,11 @@ El Git Stash es como un contenedor donde podemos poner todos los cambios tempora
 ## Comando Git
 
 ```
+<<<<<<< Updated upstream
 git stash
 
 git stash list
+=======
+
+>>>>>>> Stashed changes
 ```
