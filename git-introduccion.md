@@ -29,4 +29,12 @@ git branch (Permite ver las ramas)
 git log
 
 git commit --amend -m "Nuevo texto del commit" (Permite modificar el texto del ultimo commit)
+
+git reset --soft HEAD^n (te devuelve al commit anterior o n cantidad)
+
+git reset --hard xxx (En las xxx podriamos poner el codigo del commit, tener presente que el hard realiza una eliminacion de archivos o cambios)
+
+
+git reflog (Nos da un historico de todos los cambios)
+
 ```
